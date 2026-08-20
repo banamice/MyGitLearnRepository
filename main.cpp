@@ -1,5 +1,5 @@
 #include "character.h"
-int main()
+int MAIN()
 {
 	
 }
